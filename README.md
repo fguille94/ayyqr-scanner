@@ -1,0 +1,1 @@
+# ayyqr-scanner
